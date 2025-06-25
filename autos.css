@@ -9,7 +9,7 @@ body {
 
 header {
     background-color: #a7b9ef;
-    color: white;
+    color: rgb(10, 6, 6);
     padding: 20px;
     text-align: center;
 }
@@ -24,7 +24,7 @@ header p {
     margin-top: 30px;}
 nav {
     background-color: #051f45;
-    color: white;
+    color: rgb(198, 26, 26);
     padding: 10px 0;
   list-style: none;
   overflow: hidden; 
@@ -47,7 +47,7 @@ nav {
 
 .menu-horizontal a {
   text-decoration: none;
-  color: white;
+  color: rgb(106, 17, 17);
   font-size: 16px;
   font-weight: bold;
   padding: 10px 15px;
@@ -58,7 +58,7 @@ nav {
 
 .menu-horizontal a:hover {
     background-color: #5595f6;
-    color: white;
+    color: rgb(162, 16, 16);
 }
 .container {
     max-width: 1200px;
